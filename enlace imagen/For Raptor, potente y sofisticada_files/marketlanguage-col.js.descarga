@@ -1,0 +1,2 @@
+var bglov = $('.common-brandGallery .item .common-image').find('.video.link-overlay');
+bglov.removeClass('link-overlay-video');

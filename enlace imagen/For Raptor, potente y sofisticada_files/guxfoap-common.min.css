@@ -1,0 +1,32 @@
+#global-ux .fds-cl-ford-blue,#global-ux .fds-cl-uniting-blue,#global-ux .fds-cl-white,#global-ux .fds-cl-black,#global-ux .fds-cl-caution-txt,#global-ux .fds-cl-error-txt,#global-ux .fds-cl-success-txt{font-family:FordAntennaCond}
+#global-ux .fds-cl-bdy-txt,#global-ux .fds-cl-disable-txt,#global-ux .fds-cl-bg-clr{font-family:FordAntenna}
+#global-ux .fds-cl-ford-blue{color:#102b4e !important}
+#global-ux .fds-cl-ford-blue span{color:#102b4e !important}
+#global-ux .fds-cl-ford-blue a,#global-ux .fds-cl-ford-blue a.link-chevron,#global-ux .fds-cl-ford-blue a.link-chevron:after{color:#102b4e !important}
+#global-ux .fds-cl-uniting-blue{color:#2861a4 !important}
+#global-ux .fds-cl-uniting-blue span{color:#2861a4 !important}
+#global-ux .fds-cl-uniting-blue a,#global-ux .fds-cl-uniting-blue a.link-chevron,#global-ux .fds-cl-uniting-blue a.link-chevron:after{color:#2861a4 !important}
+#global-ux .fds-cl-white{color:#fff !important}
+#global-ux .fds-cl-white span{color:#fff !important}
+#global-ux .fds-cl-white a,#global-ux .fds-cl-white a.link-chevron,#global-ux .fds-cl-white a.link-chevron:after{color:#fff !important}
+#global-ux .fds-cl-black{color:#000 !important}
+#global-ux .fds-cl-black span{color:#000 !important}
+#global-ux .fds-cl-black a,#global-ux .fds-cl-black a.link-chevron,#global-ux .fds-cl-black a.link-chevron:after{color:#000 !important}
+#global-ux .fds-cl-bdy-txt{color:#4d4d4d !important}
+#global-ux .fds-cl-bdy-txt span{color:#4d4d4d !important}
+#global-ux .fds-cl-bdy-txt a,#global-ux .fds-cl-bdy-txt a.link-chevron,#global-ux .fds-cl-bdy-txt a.link-chevron:after{color:#4d4d4d !important}
+#global-ux .fds-cl-disable-txt{color:#8c8c8c !important}
+#global-ux .fds-cl-disable-txt span{color:#8c8c8c !important}
+#global-ux .fds-cl-disable-txt a,#global-ux .fds-cl-disable-txt a.link-chevron,#global-ux .fds-cl-disable-txt a.link-chevron:after{color:#8c8c8c !important}
+#global-ux .fds-cl-bg-clr{color:#f4f4f4 !important}
+#global-ux .fds-cl-bg-clr span{color:#f4f4f4 !important}
+#global-ux .fds-cl-bg-clr a,#global-ux .fds-cl-bg-clr a.link-chevron,#global-ux .fds-cl-bg-clr a.link-chevron:after{color:#f4f4f4 !important}
+#global-ux .fds-cl-caution-txt{color:#ba4e00 !important}
+#global-ux .fds-cl-caution-txt span{color:#ba4e00 !important}
+#global-ux .fds-cl-caution-txt a,#global-ux .fds-cl-caution-txt a.link-chevron,#global-ux .fds-cl-caution-txt a.link-chevron:after{color:#ba4e00 !important}
+#global-ux .fds-cl-error-txt{color:#d62d09 !important}
+#global-ux .fds-cl-error-txt span{color:#d62d09 !important}
+#global-ux .fds-cl-error-txt a,#global-ux .fds-cl-error-txt a.link-chevron,#global-ux .fds-cl-error-txt a.link-chevron:after{color:#d62d09 !important}
+#global-ux .fds-cl-success-txt{color:#008200 !important}
+#global-ux .fds-cl-success-txt span{color:#008200 !important}
+#global-ux .fds-cl-success-txt a,#global-ux .fds-cl-success-txt a.link-chevron,#global-ux .fds-cl-success-txt a.link-chevron:after{color:#008200 !important}

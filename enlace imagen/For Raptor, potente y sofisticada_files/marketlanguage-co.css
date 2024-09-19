@@ -1,0 +1,199 @@
+
+#global-ux .syncUsbDownload .sync-usb-steps-block .steps li {height: 64px}
+#global-ux .syncUsbDownload .sync-usb-steps-block .steps li span {padding: 0 0 1.25rem 25px;}
+#global-ux .syncUsbDownload .sync-usb-steps-block .steps li span:before {left: 0;}
+
+/*GTBEMEAPUB-15793 Formularios-RAQ-Test-drive - Ajuste de tamaño del icono */
+
+#global-ux .main-nav .utility-links li a i.site-link-icon
+
+{ font-size: 1.2rem !important; }
+
+@media screen and (max-width: 767px) {
+    #global-ux .news-article .title-article h1 {
+        font-size: 1.6rem !important;
+    }
+}
+/* APR-5953: Secondary Subnav Arrow; */
+#global-ux .section.secondaryNavigation .style-2 .navigation-vertical .desktop {padding-bottom: 0 !important;}
+
+#global-ux .section.secondaryNavigation .style-2 .sub-navigation-vertical h2 {
+    font-size: 1em;
+    padding: 15px 70px 10px;
+    vertical-align: top;
+    line-height: 1.4;
+    min-width: 366px !important;
+}
+
+#global-ux .secondaryNavigation.style-2 .sub-navigation-vertical h2:before {
+    content: "\e615";
+    font-size: 25px;
+    font-size: 1.5625rem;
+    left: auto;
+    right: 19px;
+    top: 8px;
+}
+
+
+#global-ux .cl-ford-blue {
+    color: #00095B !important;
+}
+#global-ux .cl-ford-blue span {
+    color: #00095B !important;
+}
+#global-ux .common-box.bg-cta-blue {
+    background-color: #1700F4 !important;
+}
+#global-ux .common-box.bg-ford-blue {
+    background-color: #00095B !important;
+}
+#global-ux .common-box.bg-cta-blue {
+    background-color: #1700F4 !important;
+}
+#global-ux .cl-cta-blue {
+    color: #1700F4 !important;
+}
+
+#global-ux .common-mediaCarouselItem.button-tile {
+    background: #fff;
+    border: none !important;
+    -webkit-box-shadow: 0 2px 8px 1px rgb(31 29 32 / 16%) !important;
+    -moz-box-shadow: 0 2px 8px 1px rgb(31 29 32 / 16%) !important;
+    box-shadow: 0 2px 8px 1px rgb(31 29 32 / 16%) !important;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-bottom: 1.875rem;
+    padding: 30px;
+    padding: unset !important;
+    border-radius: 0.188rem !important;
+    margin-left: 10px !important;
+    height: 100% !important;
+}
+#global-ux .common-mediaCarouselItem.button-tile .picture-container {
+    display: inline-block;
+    overflow: unset !important;
+    text-align: center;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    border-radius: 12px;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    border-radius: unset !important;
+    background-color: #f2f2f2 !important;
+}
+#global-ux .common-mediaCarouselItem.button-tile .content {
+    text-align: initial !important;
+    padding: 1px 16px 32px;
+}
+#global-ux .common-mediaCarouselItem.button-tile .caption {
+    margin: 20px 0 40px;
+    margin: 0.5rem 0 0.5rem !important;
+    font-size: 28px !important;
+    font-weight: 500 !important;
+    line-height: normal !important;
+    text-align: left;
+    padding: 16px 0px;
+    color: #00095B !important;
+    font-family: "FordAntennaBold";
+letter-spacing: 0;
+}
+
+@media only screen and (max-width: 479px) { 
+    #global-ux .common-mediaCarouselItem .hideForMobile.content.desktop {
+        display: none !important;
+    }
+       }
+#global-ux .modelsDisplay.service-ok .heading h2 {
+    font-weight: 500;
+    color: #00095B;
+}
+
+
+/*GTBEMEAPUB-15793 Model Display */
+
+#global-ux .modelsDisplay.service-ok .carousel .carousel-controls li a.flex-active {
+    background-color: #00095b !important;
+    border: solid 1px transparent !important;
+    transform: scale(1.1,1.1) !important;
+    width: 31px !important;
+    height: 3px !important;
+    border-radius: 30px;
+}
+#global-ux .modelsDisplay.service-ok .carousel .carousel-controls li a {
+ 
+    background-color: #6e6e6e !important;
+    border: solid 1px transparent !important;
+    width: 30px !important;
+    height: 3px !important;
+    border-radius: 30px;
+}
+#global-ux .modelsDisplay.service-ok .model h6 {
+font-family: "FordAntennaBold";
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    letter-spacing: 0;
+    font-weight: 500;
+}
+
+#global-ux .modelsDisplay.service-ok .heading h2 {
+    font-weight: 500 !important;
+    color: #00095b !important;
+}
+#global-ux .modelsDisplay.service-ok .bottom-content .cta-button {
+    font-weight: 500;
+    color: #00095b;
+    background-color: transparent;
+    border-color: #00095b;
+    font-size: .9rem;
+    line-height: 1rem;
+    padding: 0.65rem 1.85rem 0.65rem;
+    font-family: FordAntennaCond;
+    width: auto;
+    margin-bottom: 0;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+#global-ux .modelsDisplay.service-ok .bottom-content .cta-button:hover {
+    color: #fff !important;
+    background-color: #1700F4;
+    border-color: #1700F4;
+}
+#global-ux .modelsDisplay.service-ok .heading .cta-button:hover {
+    color: #fff !important;
+    background-color: #1700F4;
+    border-color: #1700F4;
+}
+#global-ux .modelsDisplay.service-ok .heading .cta-button {
+    color: #00095b !important;
+    background-color: #1700F4;
+    border-color: #1700F4;
+    font-weight: 500;
+    background-color: transparent;
+    font-size: 1.125rem;
+    line-height: 1rem;
+    padding: 0.65rem 1.85rem 0.65rem;
+    font-family: FordAntennaCond;
+    width: auto;
+    margin-bottom: 0;
+    border-radius: 2rem;
+    cursor: pointer;
+    border: 2px solid #00095b;
+    line-height: 1.5rem;
+    letter-spacing: 1px;
+}
+
+/*GTBEMEAPUB-15793 YMAL */
+#global-ux .youMightAlsoLike.service-ok h2 {
+    font-weight: 500 !important;
+    color: #00095B !important;
+}
+#global-ux .youMightAlsoLike.service-ok .model h6 {
+    font-weight: 500 !important;
+    color: #00095B !important;
+    transition: color 0.3s ease; 
+}
+
+#global-ux .youMightAlsoLike.service-ok .model h6:hover {
+    color: #1700F4 !important;
+}
